@@ -14,21 +14,13 @@ Nesse Trabalho estamos criando uma aplicação JavaDesktop completa, usando form
 ##  🔧Funcionalidades
 
 ### Clientes
-- Cadastro de Alunos.
-- Consulta de Alunos.
-- Exclusãod de Alunos.
+- Cadastra Cliente
 
 ### Chalé
-- Cadastro de Professores.
-- Consulta de Professores.
-- Exclusão de Professores.
+- Cadastra Chalé
 
 ### Hospedagem
-- Cadastro de Livros.
-- Consulta de Livros.
-- Exclusão de Livros.
-- Emprestimo de Livros para Alunos e Professores.
-- Finalização do Emprestimo dos Livros para Alunos e Professores.
+- Cadastra Hospedagem
 
 ## 📌progresso
 
