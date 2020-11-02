@@ -22,6 +22,9 @@ Nesse Trabalho estamos criando uma aplicação JavaDesktop completa, usando form
 ### Hospedagem
 - Cadastra Hospedagem
 
+### Banco de Dados
+- Conectar tudo com o Banco
+
 ## 📌progresso
 
 -   [x] Criação do Banco de Dados
