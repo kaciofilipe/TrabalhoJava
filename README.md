@@ -8,7 +8,7 @@ Nesse Trabalho estamos criando uma aplicação JavaDesktop completa, usando form
 - Heloise Katharine
 
 ## Referencias para a realização do Trabalho:
-- Todo o conteudo trabalho nas aulas onlines
+- Todo o conteudo trabalhado nas aulas onlines
 -  Material de apoio (PDF)
 
 ##  🔧Funcionalidades
