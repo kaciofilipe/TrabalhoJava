@@ -30,11 +30,6 @@ Nesse Trabalho estamos criando uma aplicação JavaDesktop completa, usando form
 - Emprestimo de Livros para Alunos e Professores.
 - Finalização do Emprestimo dos Livros para Alunos e Professores.
 
-## Conteudos Utilizados
-- Filas
-- Lista Encadeada
-- Lista Duplamente Encadeada.
-
 ## 📌progresso
 
 -   [x] Criação do Banco de Dados
